@@ -17,7 +17,7 @@ Information Technology student with trainee experience in operations support and
 - Website and self-hosted service maintenance
 
 ## Projects
-- **Self-Hosted Mail Server Project** — custom domain mail setup with inbound MX routing and SMTP2GO relay
+- **Self-Hosted Mail Server Project** — custom domain mail setup with inbound MX routing and turboSMTP relay
 - **Home Lab** — personal environment for testing self-hosted services and server setup
 - **Website Maintenance** — Linux-based website upkeep and MySQL administration
 
